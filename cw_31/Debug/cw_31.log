@@ -1,7 +1,0 @@
-﻿  ClockForm.cpp
-  cw_31.cpp
-cw_31.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Generating Code...
-  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
-  cw_31.vcxproj -> C:\Users\Stefoo\Documents\Visual Studio 2015\Projects\sweg\cw_31\Debug\cw_31.exe
-  cw_31.vcxproj -> C:\Users\Stefoo\Documents\Visual Studio 2015\Projects\sweg\cw_31\Debug\cw_31.pdb (Partial PDB)
